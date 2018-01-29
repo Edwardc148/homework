@@ -1,0 +1,7 @@
+body {
+  background-image: url('./splash.jpg')
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
